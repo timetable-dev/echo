@@ -1,4 +1,7 @@
-This repo contains a Hono API server that imitates MSLU backend to use in development and testing. I host it on Yandex Serverless Containers (same as Google Cloud Run) using Docker.
+> [!IMPORTANT]
+> This project is outdated because the official timetable website switched to a different schema in September 2025. This repo may be updated in the future but will be archived for now.
+
+This repo contains a Hono API server that imitates MSLU backend to use in development and testing. We host it on Yandex Serverless Containers (same as Google Cloud Run) using Docker.
 
 # Install and run locally
 
